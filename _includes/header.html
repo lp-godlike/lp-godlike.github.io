@@ -6,6 +6,12 @@
 <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">简介</a></li>
 </ul>
 </div>
+<div class="navigation">
+<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<ul class="menu">
+<li class="menu__entry"><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
+</ul>
+</div>
 <ul class="social-links">
 {% if site.author.email %}
 <a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
