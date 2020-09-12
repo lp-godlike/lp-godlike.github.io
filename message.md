@@ -1,7 +1,7 @@
 --- 
-   tittle:留言板
-   layout:self
-   subtitle:请留言
+   tittle: cool
+   layout: self
+   subtitle: hello
 ----
 <div>
 <form action="./" method="post">
