@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "T第一周手写笔记复刻"
+title: "first weekend"
 subtitle: "This is a subtitle"
-date:   "2020-09-11"
+date:   2020-09-14 23:21:20 +0530
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
