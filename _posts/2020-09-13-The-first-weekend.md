@@ -3,7 +3,7 @@ layout: page
 title:  "my bolg"
 subtitle: "The first weekend"
 date:   2020-09-13 21:21:21 +0530
-categories: ["general"]
+categories: misc
 ---
 
 - 将本地代码推送到远程版本仓库 ps：远程版本仓库=中转站（如git）
