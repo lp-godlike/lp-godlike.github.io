@@ -3,7 +3,7 @@ layout: page
 title:  "my notes"
 subtitle: "The first weekend"
 date:   2020-09-13 21:21:21 +0530
-categories: 笔记
+categories: git工具
 ---
 
 - 将本地代码推送到远程版本仓库 ps：远程版本仓库=中转站（如git）
