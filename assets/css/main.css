@@ -225,6 +225,12 @@
       width: 100%; }
 
   }
+  .image {
+    background-image: url("../img/1.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    float: left;
+  }
 
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
   .glitch {
